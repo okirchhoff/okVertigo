@@ -4,8 +4,7 @@ A professional-grade MEL script for Autodesk Maya that creates a hotkey-driven t
 
 This tool allows an artist to temporarily enter a mode where dragging the mouse dollys the camera while simultaneously adjusting its focal length. This is calculated perfectly to ensure a subject in the frame remains the same size, while the background perspective appears to expand or compress dramatically.
 
-![Vertigo Effect Demo](httpss://i.imgur.com/your_awesome_demo.gif)
-*(Suggestion: Record a short GIF of the tool in action and replace the link above to give visitors an instant idea of what it does!)*
+![Vertigo Effect Demo]([httpss://i.imgur.com/your_awesome_demo.gif](https://imgur.com/a/kwa124o))
 
 ## Key Features
 
@@ -53,8 +52,7 @@ Setting up the tool takes just a few minutes.
           ```
     *   Save your hotkeys.
 
-![Hotkey Editor Setup](httpss://i.imgur.com/hotkey_setup_example.png)
-*(Suggestion: You could take a screenshot of your own Hotkey Editor setup and replace this link.)*
+![Hotkey Editor Setup]([httpss://i.imgur.com/hotkey_setup_example.png](https://imgur.com/a/Oqbk7TH))
 
 ## How to Use
 
